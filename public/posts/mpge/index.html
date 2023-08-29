@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+    
+  <title>What is MPGe? | Exploring Data</title><meta name="description" content="Everyone is used to seeing car mileage MPG (miles-per-gallon) ratings. Since electric cars don&rsquo;t use gasoline the traditional MPG rating is not applicable, so the electric car industry created MPGe. What is MPGe mean and what is it good for?
+As I look at this I see three uses for MPGe:
+As marketing metric to make electric cars seem very efficient As a mechanism to compare efficiency between electric vehicles As a way to compare cost of operating electric versus gas cars Unfortunately, what I&rsquo;ve learned is that while the industry computed MPGe can be used for #1 and #2 it is quite misleading if used for #3!">
+  <meta name="keywords" content="">
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="What is MPGe?"/>
+<meta name="twitter:description" content="Everyone is used to seeing car mileage MPG (miles-per-gallon) ratings. Since electric cars don&rsquo;t use gasoline the traditional MPG rating is not applicable, so the electric car industry created MPGe. What is MPGe mean and what is it good for?
+As I look at this I see three uses for MPGe:
+As marketing metric to make electric cars seem very efficient As a mechanism to compare efficiency between electric vehicles As a way to compare cost of operating electric versus gas cars Unfortunately, what I&rsquo;ve learned is that while the industry computed MPGe can be used for #1 and #2 it is quite misleading if used for #3!"/>
+
+  <meta property="og:title" content="What is MPGe?" />
+<meta property="og:description" content="Everyone is used to seeing car mileage MPG (miles-per-gallon) ratings. Since electric cars don&rsquo;t use gasoline the traditional MPG rating is not applicable, so the electric car industry created MPGe. What is MPGe mean and what is it good for?
+As I look at this I see three uses for MPGe:
+As marketing metric to make electric cars seem very efficient As a mechanism to compare efficiency between electric vehicles As a way to compare cost of operating electric versus gas cars Unfortunately, what I&rsquo;ve learned is that while the industry computed MPGe can be used for #1 and #2 it is quite misleading if used for #3!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://https://danecollins.github.io//posts/mpge/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2014-08-12T16:29:13+00:00" />
+<meta property="article:modified_time" content="2014-08-12T16:29:13+00:00" />
+
+  <link rel="stylesheet" href="/danecollins.github.io/css/bootstrap.min.css"  crossorigin="anonymous">
+  
+  <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="/danecollins.github.io/sass/main.css">
+
+  <link rel="stylesheet" href="/danecollins.github.io/zoomjs/zoom.min.css">
+
+  <script src=/danecollins.github.io/js/lazysizes.min.js></script>
+
+  
+  <link rel="apple-touch-icon" href="/danecollins.github.io/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/danecollins.github.io/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/danecollins.github.io/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/danecollins.github.io/logo.svg" sizes="any" type="image/svg+xml" />
+
+
+</head>
+
+
+
+<body ontouchstart="">
+  <nav class="navbar navbar-default navbar-custom navbar-fixed-top invert">
+  <div class="container-fluid">
+    
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://https://danecollins.github.io//">Exploring Data</a>
+    </div>
+    
+    <div id="huxblog_navbar">
+      <div class="navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          
+
+          <li class="search-icon">
+            <a href="javascript:void(0)">
+              <i class="fa fa-search"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+  
+</nav>
+<script>
+  
+  
+  
+  var $body = document.body;
+  var $toggle = document.querySelector(".navbar-toggle");
+  var $navbar = document.querySelector("#huxblog_navbar");
+  var $collapse = document.querySelector(".navbar-collapse");
+
+  var __HuxNav__ = {
+    close: function () {
+      $navbar.className = " ";
+      
+      setTimeout(function () {
+        
+        if ($navbar.className.indexOf("in") < 0) {
+          $collapse.style.height = "0px";
+        }
+      }, 400);
+    },
+    open: function () {
+      $collapse.style.height = "auto";
+      $navbar.className += " in";
+    },
+  };
+
+  
+  $toggle.addEventListener("click", function (e) {
+    if ($navbar.className.indexOf("in") > 0) {
+      __HuxNav__.close();
+    } else {
+      __HuxNav__.open();
+    }
+  });
+
+  
+
+  document.addEventListener("click", function (e) {
+    if (e.target == $toggle) return;
+    if (e.target.className == "icon-bar") return;
+    __HuxNav__.close();
+  });
+</script>
+  
+<div class="search-page">
+  <div class="search-icon-close-container">
+    <span class="search-icon-close">
+      <i class="fa fa-chevron-down"></i>
+    </span>
+  </div>
+  <div class="search-main container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <form></form>
+        <input type="text" id="search-input" placeholder="$ grep...">
+        </form>
+        <div id="search-results" class="mini-post-list"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+  
+
+
+<style type="text/css">
+  header.intro-header {
+    position: relative;
+    background-image: url('');
+  }
+</style>
+
+<header class="intro-header style-text">
+
+  <div class="header-mask"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <div class="tags">
+            
+          </div>
+          <h1>What is MPGe?</h1>
+          <h2 class="subheading"></h2>
+          <span class="meta">
+            Posted by   
+            on Tue, Aug 12, 2014
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+  
+
+
+<article>
+  <div class="container">
+    <div class="row">
+
+      
+      <div class="
+              col-lg-8 col-lg-offset-2
+              col-md-10 col-md-offset-1
+              post-container">
+        <p>Everyone is used to seeing car mileage MPG (miles-per-gallon) ratings. Since electric cars don&rsquo;t use gasoline the traditional MPG rating is not applicable, so the electric car industry created MPGe. What is MPGe mean and what is it good for?</p>
+<p>As I look at this I see three uses for MPGe:</p>
+<ol>
+<li>As marketing metric to make electric cars seem very efficient</li>
+<li>As a mechanism to compare efficiency between electric vehicles</li>
+<li>As a way to compare cost of operating electric versus gas cars</li>
+</ol>
+<p>Unfortunately, what I&rsquo;ve learned is that while the industry computed MPGe can be used for #1 and #2 it is quite misleading if used for #3!</p>
+<h3 id="how-is-mpge-defined">How is MPGe defined?<a class="anchorjs-link" href="#how-is-mpge-defined"></a></h3><p>In coming up with MPGe, the industry decided to see how far a car could go using the total potential amount of energy in a gallon of gas. In doing so, they have created a metric that misleads buyers and in the end, will do a great disservice to the electric car buying public.</p>
+<p>The thinking goes like this; one gallon of gas has the potential of generating 36.6 kWh. A Fiat 500e, as an example, can go 3.45 miles on 1 kWh. Multiplying these together you get an MPGe of 126.3.</p>
+<p><strong>Addendum 9/18/14:</strong> while there are some references for a gallon of gas having 36.6 kWh (131,760kJ) of energy the number that the EPA uses is 33.7 kWh, and this is the number used in the Fiat when it displays MPGe on its dashboard.</p>
+<p>I find this pretty flawed thinking as there is no way to convert gasoline to energy in your car battery at anywhere close that amount. Also, this ignores the market forces that price the gas and electricity that you buy. Because of this, I find that while this metric may be the marketing aspects of #1 and #2 above, it does not tell you anything about your cost of operation.</p>
+<h3 id="how-to-compare-electric-and-gas-powered-cars">How to compare electric and gas powered cars?<a class="anchorjs-link" href="#how-to-compare-electric-and-gas-powered-cars"></a></h3><p>In trying to figure out a comparison metric, it seems to make more sense to figure out how much it costs to drive a fixed distance in both cars.</p>
+<p>For gas cars, the cost per mile is:</p>
+<pre><code>Gas Cost ($/gallon) / Car mileage (MPG)
+</code></pre>
+<p>For the electric car the cost per mile is:</p>
+<pre><code>Electricity Cost ($/kWh) / Car mileage (mi/kWh)
+</code></pre>
+<p>Let&rsquo;s use some typical values for this:</p>
+<ul>
+<li>Gas Cost: $3.80 / gallon (regular gas)</li>
+<li>Car mileage: 30 MPG</li>
+<li>Electricity Cost: $0.32 / kWh</li>
+<li>Car mileage: 3.45 miles/kWh</li>
+</ul>
+<p><strong>Note:</strong> <em>Your numbers could be wildly different but these are accurate for my 2 cars. Also, electricity cost varies wildly in the US. The $0.32 is accurate for me in CA but in CO the number would be $0.09 which significantly changes the math below.</em></p>
+<p>Now we can compare the 2 cars:</p>
+<ul>
+<li>Gas car cost per mile: $0.127</li>
+<li>Electric car cost per mile: $0.093</li>
+</ul>
+<p>This means that the electric car is 36% cheaper to drive than the gas car. But what if we had used the MPGe metric to determine the same thing. If we did that we would find that the electric car is
+422% cheaper to operate, a quite an exaggeration of the cost savings of an electric vehicle.</p>
+<p>Taking this example a little further, if you were driving a car that gets great gas mileage, let&rsquo;s say 50 MPG, you find that the cost per mile for that car is $0.076 which is 22% CHEAPER than the electric car.</p>
+<p>Likewise, if you have solar panels and produce you&rsquo;re own electricity and have excess capacity then your electricity cost is near $0 and an electric car is cheaper regardless of the price of gasoline.</p>
+<h3 id="other-impacts">Other impacts<a class="anchorjs-link" href="#other-impacts"></a></h3><p>Just because driving an electric car may cost you more per mile to operate than driving a Prius, it does not mean that there are not other factors to consider.  Decreased environmental impact or lower maintenance costs are important factors. </p>
+<p>In all cases, it&rsquo;s important to understand your situation and not be swayed by marketing materials and then disappointed later.</p>
+
+
+        <hr style="visibility: hidden;" />
+        <ul class="pager">
+          
+          
+          <li class="next">
+            <a href="/danecollins.github.io/posts/year_with_500/" data-toggle="tooltip" data-placement="top" title="A year with the Fiat 500e">
+              Next<br>
+              <span>A year with the Fiat 500e</span>
+            </a>
+          </li>
+          
+        </ul>
+        <hr style="visibility: hidden;" />
+
+        
+        
+
+
+
+
+
+
+      </div>
+
+      
+      
+      
+      
+      <div class="
+              col-lg-8 col-lg-offset-2
+              col-md-10 col-md-offset-1
+              sidebar-container">
+
+        
+        
+        <section>
+  
+  
+  <hr class="hidden-sm hidden-xs">
+  
+  <h5>FEATURED TAGS</h5>
+  <div class="tags">
+    
+  </div>
+</section>
+
+        
+        
+
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+  
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        
+        <ul class="list-inline text-center"></ul>
+
+        <p class="copyright text-muted">
+          Copyright &copy; Exploring Data 2023  
+          <br>
+          Powered by <a href="https://gohugo.io">Hugo</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src=/danecollins.github.io/js/jquery.min.js></script>
+<script src=/danecollins.github.io/js/bootstrap.min.js crossorigin="anonymous"></script>
+
+
+
+<script src="/danecollins.github.io/js/hux-blog.min.c4ea77041cd3edbfc8b2622cd887a9a5d8760a4162d14489e36d2a3fa4c90172.js"></script>
+
+
+<script src=/danecollins.github.io/js/simple-jekyll-search.min.js></script>
+
+
+<script src="/danecollins.github.io/js/search.min.0fc0a6090569bfb7a73af1f9d2c823992c7143d45236d2904e76d04b24e15939.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/danecollins.github.io/zoomjs/zoom.min.js"></script>
+
+</body>
+
+</html>
