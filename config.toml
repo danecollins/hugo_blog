@@ -17,7 +17,9 @@ enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-VTXNGTBRQ6"
+
+SectionPagesMenu = "main"
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
@@ -92,7 +94,7 @@ twitter = "johndoe"
 facebook = "johndoe"
 zhihu = "johndoe"
 weibo = "johndoe"
-github = "johndoe"
+github = "danecollins"
 gitlab = "johndoe"
 linkedin = "danec"
 rss = true
