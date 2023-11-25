@@ -23,8 +23,8 @@ Dedicated September 5th, 1994
 ```
 
 #### Excerpt from @wylandwalls on Instagram
-Wyland had the opportunity to paint two murals at Pier 39, the first depicting two gray whales-a mother and a calf- spy hopping off the coast of Northern California. San Francisco Mayor Frank Jordan, who proclaimed August 30 "Wyland Day," climbed aboard the scaffolding and helped paint a few barnacles with the artist. The mural is located across the street from Pier 39's entrance on the side of it's five-story parking garage.
+_Wyland had the opportunity to paint two murals at Pier 39, the first depicting two gray whales-a mother and a calf- spy hopping off the coast of Northern California. San Francisco Mayor Frank Jordan, who proclaimed August 30 "Wyland Day," climbed aboard the scaffolding and helped paint a few barnacles with the artist. The mural is located across the street from Pier 39's entrance on the side of it's five-story parking garage._
 
-San Francisco's @pier39, the fourth most visited attraction in California, draws over twelve million visitors each year and, with a brand new aquarium under construction, the famous attraction presented a combination of visibility and aquatic theme that was perfect for Wyland's first Whaling Wall in the city!
+_San Francisco's @pier39, the fourth most visited attraction in California, draws over twelve million visitors each year and, with a brand new aquarium under construction, the famous attraction presented a combination of visibility and aquatic theme that was perfect for Wyland's first Whaling Wall in the city!_
 
-Every car that drives along @fishermanswharf sees two whales spy hopping. It's a fascinating behavior that Wyland wanted to expose more people to it and draw attention to the gray whale in celebration of its recent removal from the endangered species list!
+_Every car that drives along @fishermanswharf sees two whales spy hopping. It's a fascinating behavior that Wyland wanted to expose more people to it and draw attention to the gray whale in celebration of its recent removal from the endangered species list!_

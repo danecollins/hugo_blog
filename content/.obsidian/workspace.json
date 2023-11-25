@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "295bb7fb129ef1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef404790400e109c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "959c25d4a162f668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wyland/27-whiterock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7706e9e3d0cb267c",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e1d69be9b7140c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5056f0a764c90f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7973c5034fe695ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcee99bd45f07912",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bf8f7cd3bcac5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b5f9be171f1133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f9944b4d0b6c18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wyland/27-whiterock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "441f7e0d7abac997",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wyland/27-whiterock.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "505d9676951f7439",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c12f837f2304a488",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wyland/27-whiterock.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "959c25d4a162f668",
+  "lastOpenFiles": [
+    "wyland/26-vancouver.md",
+    "wyland/27-whiterock.md",
+    "wyland/images/04_whiterock.jpg",
+    "wyland/25-vancouver.md",
+    "wyland/images/56_vancouver.jpg",
+    "wyland/24-victoria.md",
+    "wyland/images/08_vancouver.jpg",
+    "wyland/23-seattle.md",
+    "wyland/images/13_victoria.jpg",
+    "wyland/22-tacoma.md",
+    "wyland/images/seattle2.jpeg",
+    "wyland/images/seattle1.jpeg",
+    "wyland/21-hollywood.md",
+    "wyland/images/21-tacoma.jpg",
+    "wyland/20-santamonica.md",
+    "wyland/images/63-hollywood.jpg",
+    "wyland/19-chicago.md",
+    "wyland/18-portland.md",
+    "wyland/images/73-chicago.jpg",
+    "wyland/images/36-portland.jpg",
+    "wyland/17-portsmouth.md",
+    "wyland/15-newlondon.md",
+    "wyland/13-saltlake.md",
+    "wyland/12-redondobeach.md",
+    "wyland/11-longbeach.md",
+    "wyland/10-lagunabeach.md",
+    "wyland/08-harborisland.md",
+    "wyland/07-delmar.md",
+    "wyland/06-belmontpark.md",
+    "wyland/03-lagunabeach.md",
+    "wyland/16-newbedford.md",
+    "wyland/14-portsmouth.md",
+    "wyland/09-sandiego.md",
+    "wyland/images/64-sandiego.jpg.crdownload",
+    "wyland/05-sanclemente.md",
+    "2010-06-20.md",
+    "wyland/01-sanfrancisco.md"
+  ]
+}

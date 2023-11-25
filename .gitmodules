@@ -1,0 +1,8 @@
+[submodule "themes/capsule"]
+  path = themes/capsule
+  url = https://github.com/sudorook/capsule.git
+
+[submodule "themes/puppet"]
+  path = themes/puppet
+  url = https://github.com/roninro/hugo-theme-puppet.git
+
