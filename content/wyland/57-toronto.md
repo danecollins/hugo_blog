@@ -1,11 +1,11 @@
 ---
 title: "Toronto #70"
+subtitle: "In Search of Wyland Walls"
 date: 2019-05-13
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Toronto #70](../images/70-toronto.jpg)
 

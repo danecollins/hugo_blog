@@ -1,11 +1,11 @@
 ---
 title: "Sarasota's Mote Marine Lab #51"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-18
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Sarasota #51](../images/51-sarasota.jpg)
 

@@ -1,11 +1,11 @@
 ---
 title: "Key Largo #95"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Key Largo #95](../images/95a-keylargo.jpg)
 

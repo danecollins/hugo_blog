@@ -1,11 +1,11 @@
 ---
 title: "Kaui'a #28 and #29"
+subtitle: "In Search of Wyland Walls"
 date: 2013-05-23
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Kauai #28](../images/28-kauai.jpg)
 

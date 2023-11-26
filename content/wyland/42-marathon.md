@@ -1,11 +1,11 @@
 ---
 title: "Marathon Key #87"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Marathon #87](../images/87-marathon.jpg)
 

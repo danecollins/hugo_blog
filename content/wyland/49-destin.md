@@ -1,11 +1,11 @@
 ---
 title: "Destin #88"
+subtitle: "In Search of Wyland Walls"
 date: 2015-09-28
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Destin #88](../images/88-destin.jpg)
 

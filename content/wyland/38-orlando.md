@@ -1,11 +1,11 @@
 ---
 title: "Orlando Airport #10"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-16
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Orlando Airport #10](../images/10-orlando.jpg)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wyland/59-milwaukee.md",
+                "file": "wyland/15-newlondon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wyland/59-milwaukee.md",
+                "file": "wyland/15-newlondon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wyland/59-milwaukee.md",
+                "file": "wyland/15-newlondon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wyland/59-milwaukee.md"
+                "file": "wyland/15-newlondon.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "959c25d4a162f668",
   "lastOpenFiles": [
+    "wyland/10-lagunabeach.md",
+    "wyland/01-sanfrancisco.md",
+    "wyland/59-milwaukee.md",
     "wyland/58-niagara.md~",
     "wyland/58-niagara.md",
-    "wyland/59-milwaukee.md",
     "wyland/images/81-niagarafalls.jpg",
     "wyland/57-toronto.md",
     "wyland/images/72-milwaukee.jpg",
@@ -183,7 +185,6 @@
     "wyland/43-marathoncrane.md",
     "wyland/42-marathon.md",
     "wyland/41-sarasota.md",
-    "wyland/40-homosassa.md",
     "wyland/images/85a-honolulu.jpg.crdownload",
     "wyland/images/28-kauai.jpg.crdownload",
     "wyland/images/55-vancouver.webp.crdownload",

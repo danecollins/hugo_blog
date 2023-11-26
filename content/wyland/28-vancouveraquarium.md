@@ -1,11 +1,11 @@
 ---
 title: "Vancouver Aquarium #55"
+subtitle: "In Search of Wyland Walls"
 date: 2012-02-22
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Vancouver Aquarium #55](../images/55-vancouver.jpg)
 After getting back from White Rock we thought we would do some sight-seeing on the hop-on hop-off bus but it was done for the day.  Being too early for dinner we thought we might as well go to Stanley (of Stanley Cup fame) Park to the aquarium to see _Orcas A-30 Subpod_. The first thing that struck us regarding the aquarium was all the construction. As we’ve learned, new construction is rarely a good thing in regards to us finding intact murals. We walked around the aquarium and could not see anything so we stopped and asked one of the employees walking around. At first he said the wall was gone, then he said it was partially covered up and not in a visitor accessible area. That did not give us much hope. We thought we would go ahead and walk around anyway and on the back of the aquarium, locked behind two gates we caught a glimpse of it. Covered by new construction and new stairways it was difficult to make out but the blue wall that is the backdrop of most of the murals was unmistakable. After getting in trouble for climbing a fence to take a picture an aquarium worker named Jo came by.  She was sympathetic to our cause and knew someone in security and convinced them to let her take us to see the wall and even took the above picture for us. Normally we work pretty hard to get our picture in front of the entire wall but given the circumstances we’re glad to get this picture in front of a section of it.

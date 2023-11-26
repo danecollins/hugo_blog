@@ -1,11 +1,11 @@
 ---
 title: "#100 Beijing, China"
+subtitle: "In Search of Wyland Walls"
 date: 2010-03-11
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 While on my first trip to Beijing I managed to plan a free afternoon and remembered Wyland painted a wall for the Olympics. Searching the Internet in China can be a little bit of a challenge and getting reliable information on the wall was difficult. After some work I found that it was in Chaoyang Park. The park is large and I was not sure I could find it but it was worth a try.
 

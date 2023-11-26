@@ -1,8 +1,9 @@
 ---
 title: Meeting Wyland in Carmel
+subtitle: "In Search of Wyland Walls"
 date: 2013-08-23
 draft: false
-categories:
+tags:
   - Wyland
 ---
 

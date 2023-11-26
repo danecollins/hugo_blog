@@ -1,11 +1,11 @@
 ---
 title: "Chicago #73"
+subtitle: "In Search of Wyland Walls"
 date: 2011-09-03
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#73 Chicago](../images/73-chicago.jpg)
 

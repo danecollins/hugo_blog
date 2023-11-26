@@ -1,11 +1,11 @@
 ---
 title: "Redondo Beach #31"
+subtitle: "In Search of Wyland Walls"
 date: 2010-10-04
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#93 New Bedford](../images/93-newbedford.jpeg)
 

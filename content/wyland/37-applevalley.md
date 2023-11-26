@@ -1,11 +1,11 @@
 ---
 title: "Apple Valley, Minnesota Zoo #71"
+subtitle: "In Search of Wyland Walls"
 date: 2013-07-29
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Minnesota Zoo #37](../images/71-applevalley.jpg)
 

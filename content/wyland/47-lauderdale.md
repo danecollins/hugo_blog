@@ -1,11 +1,11 @@
 ---
 title: "North Lauderdale #99"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-24
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![North Lauderdale #99](../images/99-lauderdale.jpg)
 

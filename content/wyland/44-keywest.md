@@ -1,11 +1,11 @@
 ---
 title: "Key West #52"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Key West #52](../images/52a-keywest.jpg)
 

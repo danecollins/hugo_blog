@@ -1,11 +1,11 @@
 ---
 title: "Redondo Beach #31"
+subtitle: "In Search of Wyland Walls"
 date: 2010-08-08
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#80 Salt Lake City](../images/80-saltlakecity.jpeg)
 

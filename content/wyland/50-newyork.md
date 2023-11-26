@@ -1,11 +1,11 @@
 ---
 title: "New York #40"
+subtitle: "In Search of Wyland Walls"
 date: 2016-12-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![New York #40](../images/40-newyork.jpg)
 

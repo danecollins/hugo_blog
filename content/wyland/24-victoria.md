@@ -1,11 +1,11 @@
 ---
 title: "Victoria #13"
+subtitle: "In Search of Wyland Walls"
 date: 2012-02-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Victoria #13](../images/13_victoria.jpg)
 

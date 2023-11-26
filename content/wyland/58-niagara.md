@@ -1,12 +1,12 @@
 ---
 title: "Niagara Falls #81"
+subtitle: "In Search of Wyland Walls"
 date: 2019-05-15
 draft: false
 catalog: true
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Niagra Falls #81](../images/81-niagarafalls.jpg)
 

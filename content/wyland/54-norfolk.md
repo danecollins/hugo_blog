@@ -1,11 +1,11 @@
 ---
 title: "Norfolk #47"
+subtitle: "In Search of Wyland Walls"
 date: 2018-09-18
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Washington #45](../images/47-norfolk.webp)
 

@@ -1,11 +1,11 @@
 ---
 title: "Myrtle Beach #49"
+subtitle: "In Search of Wyland Walls"
 date: 2018-09-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Wilmington DE](../images/49-myrtlebeach.webp)
 

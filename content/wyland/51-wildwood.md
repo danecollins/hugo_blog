@@ -1,11 +1,11 @@
 ---
 title: "Wildwood, NJ #43"
+subtitle: "In Search of Wyland Walls"
 date: 2018-09-17
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Wildwood #43](../images/43-wildwood.webp)
 

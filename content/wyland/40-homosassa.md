@@ -1,12 +1,11 @@
 ---
 title: "Homosassa Springs #86"
-subtitle: In Search of Wyland Walls
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-18
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 
 ![Homosassa Springs #86](../images/86-homosassa.jpg)

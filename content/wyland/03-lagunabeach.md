@@ -1,11 +1,11 @@
 ---
 title: "Laguna Beach #1 and #12"
+subtitle: "In Search of Wyland Walls"
 date: 2010-06-20
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#12 Laguna Beach](../images/12-lagunabeach.jpeg)
 

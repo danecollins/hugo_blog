@@ -1,11 +1,11 @@
 ---
 title: "Tacoma #21"
+subtitle: "In Search of Wyland Walls"
 date: 2012-02-18
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#21 Tacoma](../images/21-tacoma.jpg)
 

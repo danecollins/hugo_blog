@@ -1,11 +1,11 @@
 ---
 title: "#60 San Francisco, where it all started"
+subtitle: "In Search of Wyland Walls"
 date: 2010-02-11
 draft: false
-categories:
+tags:
 - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#60 San Francisco](../images/60-sanfrancisco.jpeg)
 

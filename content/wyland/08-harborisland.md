@@ -1,11 +1,11 @@
 ---
 title: "Harbor Island #83"
+subtitle: "In Search of Wyland Walls"
 date: 2010-06-22
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#83 Harbor Island](../images/83-sandiego.jpg)
 

@@ -1,11 +1,11 @@
 ---
 title: "Wilmington, NC #48"
+subtitle: "In Search of Wyland Walls"
 date: 2018-09-19
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Wilmington DE](../images/48-wilmingtonde.webp)
 

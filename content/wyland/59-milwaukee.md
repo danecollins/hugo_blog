@@ -1,11 +1,11 @@
 ---
 title: "Milwaukee #72"
+subtitle: "In Search of Wyland Walls"
 date: 2022-07-12
 draft: false
-categories:
+tags:
   - Wyland
 catelog: true
-subtitle: In Search of Wyland Walls
 ---
 
 

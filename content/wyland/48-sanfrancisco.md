@@ -1,11 +1,11 @@
 ---
 title: "San Francisco #61"
+subtitle: "In Search of Wyland Walls"
 date: 2014-07-06
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![San Francisco #61](../images/61-sanfrancisco.jpg)
 

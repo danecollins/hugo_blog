@@ -1,11 +1,11 @@
 ---
 title: "Newport #59"
+subtitle: "In Search of Wyland Walls"
 date: 2012-07-12
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Newport #59](../images/59-newport.jpg)
 

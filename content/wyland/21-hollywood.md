@@ -1,11 +1,11 @@
 ---
 title: "Hollywood #63"
+subtitle: "In Search of Wyland Walls"
 date: 2012-01-07
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#63 Hollywood](../images/63-hollywood.jpg)
 

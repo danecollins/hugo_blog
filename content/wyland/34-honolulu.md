@@ -1,11 +1,11 @@
 ---
 title: "Honolulu #85"
+subtitle: "In Search of Wyland Walls"
 date: 2013-06-02
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Honolulu #85](../images/85a-honolulu.jpg)
 

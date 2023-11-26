@@ -1,11 +1,11 @@
 ---
 title: "Honolulu #6*"
+subtitle: "In Search of Wyland Walls"
 date: 2013-06-02
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Honolulu #6](../images/06-honolulu.jpg)
 

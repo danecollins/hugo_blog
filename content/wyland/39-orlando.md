@@ -1,11 +1,11 @@
 ---
 title: "Orlando Renaissance Hotel #11"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-18
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Orlando Renaissance #11](../images/11-orlando.jpg)
 

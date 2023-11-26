@@ -1,11 +1,11 @@
 ---
 title: "Belmont Park #16"
+subtitle: "In Search of Wyland Walls"
 date: 2010-06-22
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#16 Belmont Park](../images/16-belmontpark.jpeg)
 

@@ -1,11 +1,11 @@
 ---
 title: "Miami #78"
+subtitle: "In Search of Wyland Walls"
 date: 2014-02-21
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Miami #78](../images/78-miami.jpg)
 

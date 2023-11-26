@@ -1,11 +1,11 @@
 ---
 title: "Vancouver #8"
+subtitle: "In Search of Wyland Walls"
 date: 2012-02-21
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Vancouver #8](../images/08_vancouver.jpg)
 

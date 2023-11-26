@@ -1,11 +1,11 @@
 ---
 title: "San Diego #64"
+subtitle: "In Search of Wyland Walls"
 date: 2010-06-25
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#64 San Diego](../images/64-sandiego.jpg)
 

@@ -1,11 +1,11 @@
 ---
 title: "Wilmington, DE #44"
+subtitle: "In Search of Wyland Walls"
 date: 2018-09-17
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Wilmington #44](../images/44-wilmington_de.webp)
 

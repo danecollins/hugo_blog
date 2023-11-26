@@ -1,11 +1,11 @@
 ---
 title: "Waikiki #67"
+subtitle: "In Search of Wyland Walls"
 date: 2013-05-26
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Waikiki #67](../images/67-waikiki.jpg)
 

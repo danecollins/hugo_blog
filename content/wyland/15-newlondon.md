@@ -1,11 +1,11 @@
 ---
 title: "Redondo Beach #31"
+subtitle: "In Search of Wyland Walls"
 date: 2010-10-03
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#41 New London](../images/41-newlondon.jpeg)
 

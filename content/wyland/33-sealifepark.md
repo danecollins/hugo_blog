@@ -1,11 +1,11 @@
 ---
 title: "Sea Life Park Oahu #15"
+subtitle: "In Search of Wyland Walls"
 date: 2013-05-29
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![Sea Life Park #15](../images/15-oahu.jpg)
 

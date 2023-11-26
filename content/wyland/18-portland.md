@@ -1,11 +1,11 @@
 ---
 title: "Portland #36"
+subtitle: "In Search of Wyland Walls"
 date: 2010-10-07
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#36 Portland](../images/36-portland.jpg)
 

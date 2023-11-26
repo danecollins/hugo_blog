@@ -1,11 +1,11 @@
 ---
 title: "San Clemente #2"
+subtitle: "In Search of Wyland Walls"
 date: 2010-06-21
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#2 San Clemente](../images/02-sanclemente.jpg)
 

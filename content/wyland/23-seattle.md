@@ -1,11 +1,11 @@
 ---
 title: "Seattle #57 and #58 - RIP"
+subtitle: "In Search of Wyland Walls"
 date: 2012-02-18
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 As the sun started to set on Pike Place Market, I thought the setting sun would be a good backdrop to seeing _Leap of Faith_, Wyland’s first mural using warm colors. As a bonus we could also see _Orcas off the San Juan Islands_ on the opposite side of the same building which depicts the J-1 pod Wyland visited with during his stay in Seattle.
 

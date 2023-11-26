@@ -1,11 +1,11 @@
 ---
 title: "Del Mar Fairgrounds #94"
+subtitle: "In Search of Wyland Walls"
 date: 2010-06-22
 draft: false
-categories:
+tags:
   - Wyland
 ---
-### In Search of Wyland Walls
 
 ![#94 Del Mar Fairgrounds](../images/94-delmar.jpeg)
 
