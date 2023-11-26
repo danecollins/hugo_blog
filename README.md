@@ -16,6 +16,9 @@ Follow quickstart at: https://gohugo.io/getting-started/quick-start/
 
 	> git submodule add https://github.com/sudorook/capsule themes/capsule
 
+### Configuration
+
+The configuration file for the theme is in themes/puppet/config.toml.
 
 ## Operation
 
@@ -50,3 +53,7 @@ Current categories are "Travel".
    > hugo server
    
 ### Publishing the site
+
+	> ./promote.sh
+	> cd ../danecollins...
+	commit and push

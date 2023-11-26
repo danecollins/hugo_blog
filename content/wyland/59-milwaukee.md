@@ -4,8 +4,10 @@ date: 2022-07-12
 draft: false
 categories:
   - Wyland
+catelog: true
+subtitle: In Search of Wyland Walls
 ---
-### In Search of Wyland Walls
+
 
 ![Milwaukee #72](../images/72-milwaukee.jpg)
 
