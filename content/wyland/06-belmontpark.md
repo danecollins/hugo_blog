@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#16 Belmont Park](../images/16-belmontpark.jpeg)
 
 After the uncertainty in looking for #2 we felt much more certain about finding _Orcas off Point Loma_ as we knew it was at Belmont Park and at an indoor pool. The big questions were whether we would have to pay to get into the park and whether there was any way to get inside the pool.

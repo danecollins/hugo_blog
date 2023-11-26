@@ -5,6 +5,7 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
 
 Our company Christmas party was in Santa Monica and since we needed to spend the night it gave us a great opportunity to visit “Santa Monica’s Marine Life” on the Pier.  With a clear and crisp morning we took a nice walk to the pier and walked the entire pier looking for the mural but to no avail.  We asked at the police station on the pier but they could not help us. We asked at the lifeguard station and got lucky, or so we thought. One of the lifeguards told us the mural was on Ocean Blvd by 4th.
 

@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#83 Harbor Island](../images/83-sandiego.jpg)
 
 When I first started researching _Race to Save the Ocean_ I actually put it into the extinct category because I figured a privately owned racing yacht is not something you could get access to, if it even still existed. I was wrong. While talking to my Dad I learned that not only did the yacht still exist, but that it was used as a charter boat sailing out of San Diego.

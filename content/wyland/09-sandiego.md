@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#64 San Diego](../images/64-sandiego.jpg)
 
 After chasing down pictures of yachts we knew the next wall would be easier to find and take a picture of since it would not be moving. We just saw it a little earlier than expected.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wyland/27-whiterock.md",
+                "file": "wyland/59-milwaukee.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wyland/27-whiterock.md",
+                "file": "wyland/59-milwaukee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wyland/27-whiterock.md",
+                "file": "wyland/59-milwaukee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wyland/27-whiterock.md"
+                "file": "wyland/59-milwaukee.md"
               }
             }
           }
@@ -148,42 +148,45 @@
   },
   "active": "959c25d4a162f668",
   "lastOpenFiles": [
-    "wyland/26-vancouver.md",
-    "wyland/27-whiterock.md",
-    "wyland/images/04_whiterock.jpg",
-    "wyland/25-vancouver.md",
-    "wyland/images/56_vancouver.jpg",
-    "wyland/24-victoria.md",
-    "wyland/images/08_vancouver.jpg",
-    "wyland/23-seattle.md",
-    "wyland/images/13_victoria.jpg",
-    "wyland/22-tacoma.md",
-    "wyland/images/seattle2.jpeg",
-    "wyland/images/seattle1.jpeg",
-    "wyland/21-hollywood.md",
-    "wyland/images/21-tacoma.jpg",
-    "wyland/20-santamonica.md",
-    "wyland/images/63-hollywood.jpg",
-    "wyland/19-chicago.md",
-    "wyland/18-portland.md",
-    "wyland/images/73-chicago.jpg",
-    "wyland/images/36-portland.jpg",
-    "wyland/17-portsmouth.md",
-    "wyland/15-newlondon.md",
-    "wyland/13-saltlake.md",
-    "wyland/12-redondobeach.md",
-    "wyland/11-longbeach.md",
-    "wyland/10-lagunabeach.md",
-    "wyland/08-harborisland.md",
-    "wyland/07-delmar.md",
-    "wyland/06-belmontpark.md",
-    "wyland/03-lagunabeach.md",
-    "wyland/16-newbedford.md",
-    "wyland/14-portsmouth.md",
-    "wyland/09-sandiego.md",
-    "wyland/images/64-sandiego.jpg.crdownload",
-    "wyland/05-sanclemente.md",
-    "2010-06-20.md",
-    "wyland/01-sanfrancisco.md"
+    "wyland/58-niagara.md",
+    "wyland/59-milwaukee.md",
+    "wyland/images/81-niagarafalls.jpg",
+    "wyland/57-toronto.md",
+    "wyland/images/72-milwaukee.jpg",
+    "wyland/images/IMG_0728.jpeg",
+    "wyland/56-myrtlebeach.md",
+    "wyland/images/81-niagrafalls.jpg",
+    "wyland/images/81-NiagraFalls.jpg",
+    "wyland/images/70-toronto.jpg",
+    "wyland/images/70-Toronto.jpg",
+    "wyland/55-wilmingtonnc.md",
+    "wyland/images/49-myrtlebeach.webp",
+    "wyland/images/48-wilmingtonde.webp",
+    "wyland/52-baltimore.md",
+    "wyland/54-norfolk.md",
+    "wyland/53-washington.md",
+    "wyland/images/47-norfolk.webp",
+    "wyland/51-wilmingtonde.md",
+    "wyland/50-newyork.md",
+    "wyland/51-wildwood.md",
+    "wyland/49-destin.md",
+    "wyland/48-sanfrancisco.md",
+    "wyland/45-keylargo.md",
+    "wyland/47-lauderdale.md",
+    "wyland/46-miami.md",
+    "wyland/33-sealifepark.md",
+    "wyland/32-waikiki.md",
+    "wyland/38-orlando.md",
+    "wyland/37-applevalley.md",
+    "wyland/44-keywest.md",
+    "wyland/43-marathoncrane.md",
+    "wyland/42-marathon.md",
+    "wyland/41-sarasota.md",
+    "wyland/40-homosassa.md",
+    "wyland/39-orlando.md",
+    "wyland/images/85a-honolulu.jpg.crdownload",
+    "wyland/images/28-kauai.jpg.crdownload",
+    "wyland/images/55-vancouver.webp.crdownload",
+    "wyland/images/64-sandiego.jpg.crdownload"
   ]
 }

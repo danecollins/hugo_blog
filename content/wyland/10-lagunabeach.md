@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#68 Laguna Beach](../images/68-lagunabeach.jpg)
 
 The benefit of heading to Laguna Beach a second time is that we knew exactly where to go. I was worried that it would be hard to get a picture of both us and _Pacific Realm_ since it is on the ceiling but that turned out not to be too hard.

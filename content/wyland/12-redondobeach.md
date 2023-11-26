@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#31 Redondo Beach](../images/31-redondobeach.jpg)
 
 We had actually seen _Gray Whale Migration_ once before. One of the few walls we were not seeing for the first time but it’s just as impressive the second time around.

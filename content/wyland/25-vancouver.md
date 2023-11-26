@@ -5,7 +5,7 @@ draft: false
 categories:
   - Wyland
 ---
-
+### In Search of Wyland Walls
 
 ![Vancouver #8](../images/08_vancouver.jpg)
 

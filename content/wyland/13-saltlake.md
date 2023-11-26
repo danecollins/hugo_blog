@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#80 Salt Lake City](../images/80-saltlakecity.jpeg)
 
 When we first started looking at the location of all the walls and I saw Salt Lake City I figured it would be a long time before we got to that one. Goes to show how life can be unpredictable.

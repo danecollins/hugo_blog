@@ -5,7 +5,7 @@ draft: false
 categories:
   - Wyland
 ---
-
+### In Search of Wyland Walls
 
 ![White Rock #4](../images/04_whiterock.jpg)
 
@@ -18,14 +18,14 @@ Whiterock, BC, Canada
 70 Feet Long x 30 Feet High
 ```
 
-#### Excerpt from @wylandfoundation on Instagram
+##### Excerpt from @wylandfoundation on Instagram
 
-*In 1984 the mayor of White Rock, Canada, Gordon Hogg, was looking for public art. The death of seven gray whales that year in the White Rock area had alarmed the community and heightened their awareness of the animals plight. As it so happened, Wyland was in town for an exhibition of his work at the @vanaqua and was looking for walls to paint!
-
-“It was very inspirational for me to receive warmth and encouragement from the people of White Rock,” Wyland says. “They had such a tremendous appreciation for what I was doing, and I really wanted to give something back to them.”
-
-The 30′ by 70′ mural was the artist’s first international Whaling Wall. It depicts a mother gray whale, her calf and their male escort as they pass by White Rock on their annual migration from Baja, Mexica, to the Bering and Chukchi seas off Siberia. The 6,000-mile trip takes the whales six to eight weeks, at speeds of 100 miles per day.
-
-Mayor Hogg gave Wyland the key to the city and the dedication ceremony.
-
-Recently restored; this mural will remain as a façade following demolition of the original building.*
+>In 1984 the mayor of White Rock, Canada, Gordon Hogg, was looking for public art. The death of seven gray whales that year in the White Rock area had alarmed the community and heightened their awareness of the animals plight. As it so happened, Wyland was in town for an exhibition of his work at the @vanaqua and was looking for walls to paint!
+>
+>“It was very inspirational for me to receive warmth and encouragement from the people of White Rock,” Wyland says. “They had such a tremendous appreciation for what I was doing, and I really wanted to give something back to them.”
+>
+>The 30′ by 70′ mural was the artist’s first international Whaling Wall. It depicts a mother gray whale, her calf and their male escort as they pass by White Rock on their annual migration from Baja, Mexica, to the Bering and Chukchi seas off Siberia. The 6,000-mile trip takes the whales six to eight weeks, at speeds of 100 miles per day.
+>
+>Mayor Hogg gave Wyland the key to the city and the dedication ceremony.
+>
+>Recently restored; this mural will remain as a façade following demolition of the original building.

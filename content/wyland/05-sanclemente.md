@@ -5,6 +5,8 @@ draft: false
 categories:
   - Wyland
 ---
+### In Search of Wyland Walls
+
 ![#2 San Clemente](../images/02-sanclemente.jpg)
 
 In trying to find walls, it’s sometimes hard to know what reference material to use. All the sources said that _Young Gray Whale_ was no longer at the Ocean Institute but the Wyland site said it was at R. H. Dana Elementary in Dana Point while Wikipedia said it was at Concordia Elementary in San Clemente.
