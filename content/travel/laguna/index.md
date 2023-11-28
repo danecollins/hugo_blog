@@ -1,12 +1,12 @@
 ---
-slug: "laguna-dog-park"
+slug: laguna-dog-park
 title: "Laguna Dog Park: San Luis Opisbo"
 date: 2021-11-05
 draft: false
 tags:
-- DogPark
+  - DogPark
+  - Travel
 categories:
-- Travel
 ---
 
 ![Cora at the Laguna Dog Park](images/cora_at_laguna.png)

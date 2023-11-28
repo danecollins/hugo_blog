@@ -1,12 +1,12 @@
 ---
-slug: "san-elijo"
-title: "San Elijo State Beach and Campground"
+slug: san-elijo
+title: San Elijo State Beach and Campground
 date: 2021-10-15
 draft: false
 tags:
-- StatePark
+  - StatePark
+  - Travel
 categories:
-- Travel
 ---
 
 There are a lot of campgrounds along the southern California coast but many of them are isolated. From San Elijo you can walk to a few restaurants and directly access the walking path. The campground is on a bluff rather than right on the beach but the views are worth it.

@@ -1,12 +1,12 @@
 ---
-slug: "ventura_path"
-title: "Cycling from Carpinteria to Ventura"
+slug: ventura_path
+title: Cycling from Carpinteria to Ventura
 date: 2022-01-22
 draft: false
 tags:
-- Cycling
+  - Cycling
+  - Travel
 categories:
-- Travel
 ---
 
 There is a path that goes from Rincon Point (with a little effort you can actually start from

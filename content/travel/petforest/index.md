@@ -1,12 +1,13 @@
 ---
-slug: "petrified-forest"
-title: "The wonders of the Petrified Forest National Park"
+slug: petrified-forest
+title: The wonders of the Petrified Forest National Park
 date: 2022-01-22
 draft: false
 tags:
-- NationalPark
+  - NationalPark
+  - Travel
 categories:
-- Travel
+  - Travel
 ---
 
 ![Large petrified logs](petrified_forest.png)

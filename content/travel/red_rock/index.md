@@ -1,13 +1,14 @@
 ---
-slug: "redrock"
-title: "Red Rock Canyon State Park"
+slug: redrock
+title: Red Rock Canyon State Park
 date: 2021-10-15
 draft: false
 tags:
-- StatePark
-- Rocks
+  - StatePark
+  - Rocks
+  - Travel
 categories:
-- Travel
+  - Travel
 ---
 
 ![Red Rock State Park](red_rock_sp.png)

@@ -1,12 +1,12 @@
 ---
-slug: "monastery"
-title: "Huge Crystals in Granite at Monastery Beach"
+slug: monastery
+title: Huge Crystals in Granite at Monastery Beach
 date: 2022-10-14
 draft: false
 tags:
-- Rocks
+  - Rocks
+  - Travel
 categories:
-- Travel
 ---
 
 ![Large crystals](monastery_2.png) ![Large crystals closeup](monastery_1.png)

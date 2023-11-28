@@ -1,12 +1,12 @@
 ---
-slug: "marin"
-title: "The Rocks Across the Bay"
+slug: marin
+title: The Rocks Across the Bay
 date: 2022-04-24
 draft: false
 tags:
-- Rocks
+  - Rocks
+  - Travel
 categories:
-- Travel
 ---
 
 ![Folded Radiolarian Chert](folded_chert.png)

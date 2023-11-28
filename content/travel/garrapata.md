@@ -1,12 +1,12 @@
 ---
-slug: "garrapata"
+slug: garrapata
 title: "Garrapata State Park: Sample the Big Sur Coast"
 date: 2021-09-30
 draft: false
 tags:
-- StatePark
+  - StatePark
+  - Travel
 categories:
-- Travel
 ---
 
 Just south of Carmel there are many options for viewing the Big Sur coast. My favorite one is at Garrapata State Park. Its coastal trails are easy to access, easy to hike and have great views of the coast. You can also get to the beach where you can see some interesting rock formations in the bluffs.
