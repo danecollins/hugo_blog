@@ -1,6 +1,6 @@
 ---
-title: "Redondo Beach #31"
-subtitle: "In Search of Wyland Walls"
+title: "New Bedford #93"
+subtitle: In Search of Wyland Walls
 date: 2010-10-04
 draft: false
 tags:

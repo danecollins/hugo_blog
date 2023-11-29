@@ -1,6 +1,6 @@
 ---
-title: "Laguna Beach #68"
-subtitle: "In Search of Wyland Walls"
+title: "Long Beach #33"
+subtitle: In Search of Wyland Walls
 date: 2010-07-01
 draft: false
 tags:

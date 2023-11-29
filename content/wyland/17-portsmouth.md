@@ -1,6 +1,6 @@
 ---
-title: "Redondo Beach #31"
-subtitle: "In Search of Wyland Walls"
+title: "Portsmouth #37"
+subtitle: In Search of Wyland Walls
 date: 2010-10-06
 draft: false
 tags:

@@ -1,6 +1,6 @@
 ---
-title: "Redondo Beach #31"
-subtitle: "In Search of Wyland Walls"
+title: "Salt Lake City #80"
+subtitle: In Search of Wyland Walls
 date: 2010-08-08
 draft: false
 tags:

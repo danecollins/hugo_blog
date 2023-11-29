@@ -1,6 +1,6 @@
 ---
-title: "Chicago #73"
-subtitle: "In Search of Wyland Walls"
+title: "Santa Monica #79"
+subtitle: In Search of Wyland Walls
 date: 2011-12-16
 draft: false
 tags:

@@ -1,13 +1,14 @@
 ---
-slug: "nacimiento"
-title: "Lake Nacimiento during the poppy bloom"
+slug: nacimiento
+title: Lake Nacimiento during the poppy bloom
 date: 2023-04-10
 draft: false
 tags:
-- Rocks
-- Flowers
+  - Rocks
+  - Flowers
+  - Travel
 categories:
-- Travel
+  - Travel
 ---
 
 ![Blooming poppies](poppies.png)
