@@ -11,7 +11,7 @@ tags:
 
 While traveling to San Diego we wanted to drive through Laguna Beach, as we knew there were several walls we could see there. We hoped these walls would be easy to find, given some of our experiences. Fortunately, they were.
 
-We first found _Laguna Coast_ which is on the side wall of a very cool store that’s definitely worth stopping in. If you’ve never tried to lift a meteorite this is your chance. This wall is not the original one and has been re-painted on tiles which will hopefully allow it to last much longer than the original.
+We first found _Laguna Coast_ (wall #12) which is on the side wall of a very cool store that’s definitely worth stopping in. If you’ve never tried to lift a meteorite this is your chance. This wall is not the original one and has been re-painted on tiles which will hopefully allow it to last much longer than the original.
 
 ```
 2171 Laguna Canyon Road  

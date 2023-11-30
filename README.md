@@ -20,6 +20,19 @@ Follow quickstart at: https://gohugo.io/getting-started/quick-start/
 
 The configuration file for the theme is in themes/puppet/config.toml.
 
+#### Theme
+
+The current theme for the site is puppet.  I selected this because of its simplicity and its support of subtitles. Since it does not support categories I may look for a different theme in the future
+
+#### Shortcode
+
+I added a shortcode as documented [here](https://anaulin.org/blog/hugo-raw-html-shortcode/) by adding the file layouts/shortcodes/rawhtml.html.  The shortcode is used to allow raw html to be inserted which is required for sizing images.
+
+#### Google Analytics
+
+Puppet is not setup for google analytics by default so that support must be added by modifying the baseof.html file it include the Google Analytics code.
+
+
 ## Operation
 
 ### Adding a post
@@ -33,20 +46,20 @@ The header of the markdown file contains a specific header that is used to deter
 ```
 slug: "slug-name"
 title: "title for the post"
+subtitle: "optional subtitle"
 date: yyyy-mm-dd
 draft: false
 tags:
 - tag1
 - tag2
-categories
-- category1
+
 ```
 
 Current categories are "Travel".
 
 ### Build static site
 
-	> hugo
+   > hugo
 	
 ### Preview the site
 

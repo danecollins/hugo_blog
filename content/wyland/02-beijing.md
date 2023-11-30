@@ -1,7 +1,7 @@
 ---
 title: "#100 Beijing, China"
-subtitle: "In Search of Wyland Walls"
-date: 2010-03-11
+subtitle: In Search of Wyland Walls
+date: 2010-03-13
 draft: false
 tags:
   - Wyland

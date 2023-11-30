@@ -1,7 +1,7 @@
 ---
 title: "Honolulu #85"
 subtitle: In Search of Wyland Walls
-date: 2013-05-26
+date: 2013-05-29
 draft: false
 tags:
   - Wyland

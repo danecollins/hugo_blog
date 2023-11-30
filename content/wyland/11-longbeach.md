@@ -9,7 +9,7 @@ tags:
 
 ![#33 Long Beach](../images/33-longbeach.jpg)
 
-We found ourselves quite lucky when we got to the Long Beach Convention Center to find that there was no conference. The place was deserted and this make it quite each for us to go around the entire conference center and see the entire wall. If you go to the hotel next to the convention center you can go up to the 17th floor and from the hallway windows you can get a great overall view of the painting but unfortunately it’s still not high enough to be able to see the painting on the roof.
+We found ourselves quite lucky when we got to the Long Beach Convention Center to find that there was no conference. The place was deserted; this made it quite easy for us to go around the entire conference center and see the entire wall. If you go to the hotel next to the convention center you can go up to the 17th floor and from the hallway windows you can get a great overall view of the painting but unfortunately it’s still not high enough to be able to see the painting on the roof.
 
 ```
 Long Beach Convention Center
