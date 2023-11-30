@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2edb3bcb86940f66",
+        "id": "119b72824416f476",
         "type": "tabs",
         "children": [
           {
-            "id": "790de12855ea204e",
+            "id": "2ae437d5470feec2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wyland/36-honolulu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wyland/36-honolulu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wyland/36-honolulu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wyland/36-honolulu.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "790de12855ea204e",
+  "active": "2ae437d5470feec2",
   "lastOpenFiles": [
+    "wyland/59-milwaukee.md",
+    "wyland/58-niagara.md",
+    "wyland/55-wilmingtonnc.md",
+    "wyland/52-baltimore.md",
+    "wyland/49-destin.md",
+    "wyland/36-honolulu.md",
     "wyland/35-honolulu.md",
     "wyland/34-honolulu.md",
     "wyland/21-hollywood.md",
@@ -168,12 +166,6 @@
     "wyland/05-sanclemente.md",
     "wyland/01-sanfrancisco.md",
     "wyland/18-portland.md",
-    "wyland/19-chicago.md",
-    "wyland/20-santamonica.md",
-    "wyland/33-sealifepark.md",
-    "wyland/36-honolulu.md",
-    "wyland/38-orlando.md",
-    "wyland/51-wilmingtonde.md",
     "posts/watch/watch_1.md~",
     "posts/watch/health_icon.jpeg",
     "wyland/58-niagara.md~",

@@ -15,11 +15,11 @@ We had no travel plans to see walls this year but a few weeks ago while at a Wyl
 
 The weather forecast for the week was pretty grim. On Monday we got to see the wall but by 11am it started raining and we proceeded to get 12.6″ of rain that day.  That eliminated any chance to see him paint on Monday. Without anything else planned, we decided to visit the Wyland Gallery in Destin and ended up running into Wyland there.  As it was pouring down rain we were the only customers there and got to talk to him. We got some insight into the walls and his Giant Sculpture project. It was pretty fun to get some one-on-one time with him.
 
-Tuesday the forecast was better and we knew there was a good chance we would get to see him paint.  The painters that were doing the background had almost completed their work and the was was ready for him to start.  As he was doing his first walk-around of the wall we were able to get our wall picture with him.
+Tuesday the forecast was better and we knew there was a good chance we would get to see him paint.  The painters that were doing the background had almost completed their work and the wall was ready for him to start.  As he was doing his first walk-around of the wall we were able to get our wall picture with him.
 
-Everything just got better from there. We got to see the master at work.  The building is absolutely huge and it’s quite a coordination task to paint from a moving cherry-picker.  Watching him paint from the ground was great but then he took us up on the cherry picker to watch him paint from up high which was fantastic. We lunch with him and got to hear some great stories of his travels. Over the course of the day we heard so many stories and just had the greatest time.
+Everything just got better from there. We got to see the master at work.  The building is absolutely huge and it’s quite a coordination task to paint from a moving cherry-picker.  Watching him paint from the ground was great but then he took us up on the cherry picker to watch him paint from up high which was fantastic. We were the only people there, watching him work, so when he stopped for lunch he asked us to join him.  We got to hear some great stories of his travels. Over the course of the day we heard so many stories and just had the best time.
 
-On Wednesday a few classes of school kids, middle school and elementary, came by to hear Wyland talk and to paint with it.  It was very special to see him interact with the kids. He was so energized by them and buzzing around while the kids were all painting.
+On Wednesday a few classes of school kids, middle school and elementary, came by to hear Wyland talk and to paint with him.  We were able help set up for his day with the kids.  It was very special to see him interact with the kids. He was so energized by them and buzzing around while the kids were all painting.
 
 A very special trip that we will never forget.
 
