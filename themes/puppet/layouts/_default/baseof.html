@@ -43,15 +43,6 @@
 
   <script src={{ "js/lazysizes.min.js" | relURL }}></script>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTXNGTBRQ6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-VTXNGTBRQ6');
-  </script>
 
 
   <!-- custom js -->
@@ -97,6 +88,16 @@
   {{- if and .IsPage (.Params.toc) }}
   {{ .Scratch.Set "toc" true }}
   {{ end -}}
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTXNGTBRQ6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-VTXNGTBRQ6');
+  </script>
 
   <!-- Nav -->
   {{ partial "nav.html" . }}
