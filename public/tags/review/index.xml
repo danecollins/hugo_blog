@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>review on Dane&#39;s Blog on Travel and Data</title>
+    <link>http://danecollins.github.io/tags/review/</link>
+    <description>Recent content in review on Dane&#39;s Blog on Travel and Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://danecollins.github.io/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on the Apple Podcast App</title>
+      <link>http://danecollins.github.io/posts/apple-podcasts/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://danecollins.github.io/posts/apple-podcasts/</guid>
+      <description>I have used the Downcast podcast player for years. It has several features that I like, and it does everything I want. With Spotify, Amazon and Apple all having their own podcast players, many with the ability to listen to podcasts without commercials I started thinking about looking and some of these options.&#xA;Given Apple&amp;rsquo;s support of podcasts over time and their usual care in creating their apps I decided to try their podcast app first.</description>
+    </item>
+  </channel>
+</rss>
