@@ -14,3 +14,10 @@ After the disappointment on Melville Street I was a little concerned. Of the las
 After looking everywhere around 1290 Grandville, the address listed everywhere on the web for the building it is painted on and finding nothing we expanded our search to find the wall painted on 1390 Grandville. Goes to show you can’t believe everything you see on the web!
 
 The wall is in remarkably good shape and it looks like it was refreshed for the 2010 Olympics in Vancouver. The wall was positioned so that it would be seen as you drive into Vancouver on the Granville bridge.
+
+```
+Old Continental Hotel
+1290 Granville Vancouver
+80 Feet Long x 90 Feet High
+Dedicated August 15, 1994
+```

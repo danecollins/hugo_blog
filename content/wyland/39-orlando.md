@@ -15,3 +15,11 @@ When walls are outdoors I can often use Google Street View to track them down an
 It has been very interesting to see the difference in size of the each wall.  From the truly gigantic _Planet Ocean_ in Long Beach to the relatively small _Manatees_ at the airport. 
 
 And now, we’re off to the west coast of Florida.
+
+```
+Renaissance Orlando Resort
+6677 Sea Harbor Drive Orlando
+Moved from Sea World
+30 Feet Long x 12 Feet High
+Dedicated September 26, 1986
+```

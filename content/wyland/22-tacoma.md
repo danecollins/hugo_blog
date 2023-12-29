@@ -12,3 +12,9 @@ tags:
 On our trip to Seattle we flew into SeaTac which made it convenient to head straight to Tacoma to see Washington Orcas which turned out to be very easy to find. Given the wet weather here I was unsure how well it would hold up and while it is a little faded it is holding up well. This wall depicts a pod of whales that resides near Tacoma.
 
 Across the parking lot is a small insurance office with the best view in Tacoma!
+
+```
+Tacoma
+120 Feet Long x 45 Feet High
+Dedicated July, 1990
+```

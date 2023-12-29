@@ -13,3 +13,10 @@ tags:
 As I’ve mentioned before, it is hard to understand how Wyland selects the locations for his walls. I think that _Florida’s Radiant Reef_ is my favorite wall to date and it is on the wall of a KMart! This wall has some of everything in it and is in great shape.  It is big and visible from the main road so I’m sure a ton of people get to see it.
 
 Guy Harvey also contributed to this wall.
+
+```
+Big K-Mart
+5561 Overseas Hwy. Marathon 
+150 Feet Long x 20 Feet High
+Dedicated March 9, 2001
+```

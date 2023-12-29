@@ -11,8 +11,12 @@
             "id": "2ae437d5470feec2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wyland/22-tacoma.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wyland/22-tacoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wyland/22-tacoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wyland/22-tacoma.md"
+              }
             }
           }
         ]
@@ -140,32 +148,36 @@
   },
   "active": "2ae437d5470feec2",
   "lastOpenFiles": [
-    "wyland/59-milwaukee.md",
-    "wyland/58-niagara.md",
-    "wyland/55-wilmingtonnc.md",
-    "wyland/52-baltimore.md",
-    "wyland/49-destin.md",
+    "wyland/38-orlando.md",
+    "wyland/39-orlando.md",
+    "wyland/57-toronto.md",
     "wyland/36-honolulu.md",
-    "wyland/35-honolulu.md",
+    "wyland/32-waikiki.md",
     "wyland/34-honolulu.md",
-    "wyland/21-hollywood.md",
-    "wyland/11-longbeach.md",
-    "wyland/03-lagunabeach.md",
-    "wyland/02-beijing.md",
-    "wyland/14-portsmouth.md",
-    "wyland/15-newlondon.md",
-    "wyland/16-newbedford.md",
-    "wyland/17-portsmouth.md",
-    "wyland/13-saltlake.md",
+    "wyland/35-honolulu.md",
+    "wyland/26-vancouver.md",
+    "wyland/25-vancouver.md",
+    "wyland/41-sarasota.md",
     "wyland/12-redondobeach.md",
-    "wyland/10-lagunabeach.md",
-    "wyland/09-sandiego.md",
-    "wyland/08-harborisland.md",
-    "wyland/07-delmar.md",
+    "wyland/55-wilmingtonnc.md",
     "wyland/06-belmontpark.md",
+    "wyland/56-myrtlebeach.md",
+    "wyland/42-marathon.md",
+    "wyland/21-hollywood.md",
+    "wyland/09-sandiego.md",
+    "wyland/37-applevalley.md",
+    "wyland/58-niagara.md",
     "wyland/05-sanclemente.md",
-    "wyland/01-sanfrancisco.md",
-    "wyland/18-portland.md",
+    "wyland/03-lagunabeach.md",
+    "wyland/19-chicago.md",
+    "wyland/59-milwaukee.md",
+    "wyland/08-harborisland.md",
+    "wyland/10-lagunabeach.md",
+    "wyland/07-delmar.md",
+    "wyland/images/40-newyork.jpg.sb-6bc0d056-gWmYd6",
+    "wyland/images/55-vancouver-1.jpg.sb-6bc0d056-mh5Y0X",
+    "wyland/images/81-niagarafalls.jpg.sb-6bc0d056-7S0bHf",
+    "wyland/images/40-newyork.jpg.sb-6bc0d056-X9SDVD",
     "posts/watch/watch_1.md~",
     "posts/watch/health_icon.jpeg",
     "wyland/58-niagara.md~",

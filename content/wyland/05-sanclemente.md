@@ -18,3 +18,10 @@ At Concordia we had a bit of luck. While we could quickly see there was no paint
 The next morning we called the school and the very nice office administrator told us we were welcome to come see the painting. She was so nice to show us around and tell us the story of how it came to her school.
 
 This also taught us that when we’re in doubt we should probably trust Wikipedia over other sources.
+
+```
+Ocean Institute Dana Point
+Relocated to R.H. Dana Elementary
+45 Feet Long x 10 Feet High
+Dedicated March 20, 1982
+```

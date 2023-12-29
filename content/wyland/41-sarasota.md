@@ -11,3 +11,10 @@ tags:
 
 
 After a fun day of driving down all the beaches from Clearwater to Sarasota we arrived at the Mote aquarium.  We were close  but not quite there as the Marine lab is across the street. Not only did we get to see _Florida’s Dolphins_ but we had a sweet volunteer tell us about all the turtles  they are saving. We even got to see one that is recovering from being struck from a propeller. Incredibly cute.
+
+```
+Dolphins' Mote Marine Laboratory
+1600 W. Thompson Parkway Sarasota
+45 Feet Long x 26 Feet High
+Dedicated September 20, 1993
+```

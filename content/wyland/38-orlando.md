@@ -15,3 +15,9 @@ One of the benefits of our search for Wyland murals is that it takes us places w
 Florida is a state with 11 walls so it took some planning to figure out how to see as many as possible in one trip. _Manatees_ is in terminal A of the Orlando airport so it made sense to fly into there. I was worried that if the wall was behind security we might not be able to get to it (I doubted TSA would be as friendly as security at the Vancouver aquarium, but it it is in a public area.
 
 Finding a wall in such a large public area is sometimes hard but in this case we found someone who knew where it was and had no trouble finding it.  Being inside, _Manatees_ is very well preserved and looks great. A great start to out trip!
+
+```
+Orlando International Airport Orlando
+14 Feet Long x 8 Feet High
+Dedicated 1986
+```

@@ -14,8 +14,7 @@ While traveling to San Diego we wanted to drive through Laguna Beach, as we knew
 We first found _Laguna Coast_ (wall #12) which is on the side wall of a very cool store that’s definitely worth stopping in. If you’ve never tried to lift a meteorite this is your chance. This wall is not the original one and has been re-painted on tiles which will hopefully allow it to last much longer than the original.
 
 ```
-2171 Laguna Canyon Road  
-Laguna Beach, California  
+2171 Laguna Canyon Road, Laguna Beach
 20 Feet Long x 24 Feet High  
 Dedicated February 2nd, 1987  
 Tiled 1996
