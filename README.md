@@ -15,6 +15,8 @@ Follow quickstart at: https://gohugo.io/getting-started/quick-start/
 ### Need to clone theme
 
 	> git submodule add https://github.com/sudorook/capsule themes/capsule
+or clone directly as in
+	> git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
 
 ### Configuration
 
