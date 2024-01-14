@@ -5,7 +5,6 @@
     <link>http://danecollins.github.io/about/</link>
     <description>Recent content in About on Travel and Data</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://danecollins.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://danecollins.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

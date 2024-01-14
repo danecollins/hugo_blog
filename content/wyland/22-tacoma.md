@@ -14,7 +14,6 @@ On our trip to Seattle we flew into SeaTac which made it convenient to head stra
 Across the parking lot is a small insurance office with the best view in Tacoma!
 
 ```
-Tacoma
 120 Feet Long x 45 Feet High
 Dedicated July, 1990
 ```

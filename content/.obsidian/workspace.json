@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wyland/22-tacoma.md",
+                "file": "wyland/62-neworleans.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wyland/22-tacoma.md",
+                "file": "wyland/62-neworleans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wyland/22-tacoma.md",
+                "file": "wyland/62-neworleans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wyland/22-tacoma.md"
+                "file": "wyland/62-neworleans.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "2ae437d5470feec2",
   "lastOpenFiles": [
+    "wyland/61-sanpadre.md",
+    "wyland/60-dallas.md",
+    "wyland/62-neworleans.md",
+    "wyland/59-milwaukee.md",
+    "wyland/22-tacoma.md",
     "wyland/38-orlando.md",
     "wyland/39-orlando.md",
     "wyland/57-toronto.md",
@@ -169,11 +174,6 @@
     "wyland/58-niagara.md",
     "wyland/05-sanclemente.md",
     "wyland/03-lagunabeach.md",
-    "wyland/19-chicago.md",
-    "wyland/59-milwaukee.md",
-    "wyland/08-harborisland.md",
-    "wyland/10-lagunabeach.md",
-    "wyland/07-delmar.md",
     "wyland/images/40-newyork.jpg.sb-6bc0d056-gWmYd6",
     "wyland/images/55-vancouver-1.jpg.sb-6bc0d056-mh5Y0X",
     "wyland/images/81-niagarafalls.jpg.sb-6bc0d056-7S0bHf",
